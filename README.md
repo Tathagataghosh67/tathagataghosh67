@@ -1,3 +1,5 @@
+ (![image](https://github.com/Tathagataghosh67/tathagataghosh67/assets/124400961/e48c028a-2bcc-410b-9c54-064c7e4167e0)
+
 <h1 align="center">Hi 👋, I'm Tathagata Ghosh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
